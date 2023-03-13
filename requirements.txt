@@ -1,0 +1,4 @@
+openai
+gradio
+#these are the two libraries we require
+#we run 'pip install openai' and 'pip install gradio' in the terminal in our project directory
